@@ -1,0 +1,1222 @@
+stdClass Object
+(
+    [kind] => Listing
+    [data] => stdClass Object
+        (
+            [modhash] => 
+            [children] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [kind] => t3
+                            [data] => stdClass Object
+                                (
+                                    [domain] => imgur.com
+                                    [banned_by] => 
+                                    [media_embed] => stdClass Object
+                                        (
+                                        )
+
+                                    [subreddit] => pics
+                                    [selftext_html] => 
+                                    [selftext] => 
+                                    [likes] => 
+                                    [link_flair_text] => 
+                                    [id] => 1b4fhi
+                                    [clicked] => 
+                                    [title] => Sometimes as a zoo keeper I feel like I'm being mocked...
+                                    [media] => 
+                                    [score] => 3325
+                                    [approved_by] => 
+                                    [over_18] => 
+                                    [hidden] => 
+                                    [thumbnail] => http://a.thumbs.redditmedia.com/MKSSvQuUIpjFYsDT.jpg
+                                    [subreddit_id] => t5_2qh0u
+                                    [edited] => 
+                                    [link_flair_css_class] => 
+                                    [author_flair_css_class] => 
+                                    [downs] => 5364
+                                    [saved] => 
+                                    [is_self] => 
+                                    [permalink] => /r/pics/comments/1b4fhi/sometimes_as_a_zoo_keeper_i_feel_like_im_being/
+                                    [name] => t3_1b4fhi
+                                    [created] => 1364435898
+                                    [url] => http://imgur.com/cKLF3H8
+                                    [author_flair_text] => 
+                                    [author] => Otterdink
+                                    [created_utc] => 1364407098
+                                    [ups] => 8689
+                                    [num_comments] => 360
+                                    [num_reports] => 
+                                    [distinguished] => 
+                                )
+
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [kind] => t3
+                            [data] => stdClass Object
+                                (
+                                    [domain] => self.IAmA
+                                    [banned_by] => 
+                                    [media_embed] => stdClass Object
+                                        (
+                                        )
+
+                                    [subreddit] => IAmA
+                                    [selftext_html] => &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hello everyone! My parents are in town today, so I&amp;#39;m not going to be able to get to any of these until late night tonight, but for the next couple evenings I&amp;#39;ll try to answer as many of these questions as I can - provided of course that they&amp;#39;re interesting or compelling.  Thanks for the request, and I hope you folks find this entertaining.&lt;/p&gt;
+
+&lt;p&gt;Joe&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;
+                                    [selftext] => Hello everyone! My parents are in town today, so I'm not going to be able to get to any of these until late night tonight, but for the next couple evenings I'll try to answer as many of these questions as I can - provided of course that they're interesting or compelling.  Thanks for the request, and I hope you folks find this entertaining.
+
+Joe
+                                    [likes] => 
+                                    [link_flair_text] => 
+                                    [id] => 1b4est
+                                    [clicked] => 
+                                    [title] => I am Joe Rogan ask me anything
+                                    [media] => 
+                                    [score] => 2875
+                                    [approved_by] => 
+                                    [over_18] => 
+                                    [hidden] => 
+                                    [thumbnail] => self
+                                    [subreddit_id] => t5_2qzb6
+                                    [edited] => 
+                                    [link_flair_css_class] => actor
+                                    [author_flair_css_class] => 
+                                    [downs] => 6334
+                                    [saved] => 
+                                    [is_self] => 1
+                                    [permalink] => /r/IAmA/comments/1b4est/i_am_joe_rogan_ask_me_anything/
+                                    [name] => t3_1b4est
+                                    [created] => 1364435367
+                                    [url] => http://www.reddit.com/r/IAmA/comments/1b4est/i_am_joe_rogan_ask_me_anything/
+                                    [author_flair_text] => 
+                                    [author] => JoeRoganExperience
+                                    [created_utc] => 1364406567
+                                    [ups] => 9209
+                                    [num_comments] => 5181
+                                    [num_reports] => 
+                                    [distinguished] => 
+                                )
+
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [kind] => t3
+                            [data] => stdClass Object
+                                (
+                                    [domain] => popehat.com
+                                    [banned_by] => 
+                                    [media_embed] => stdClass Object
+                                        (
+                                        )
+
+                                    [subreddit] => todayilearned
+                                    [selftext_html] => 
+                                    [selftext] => 
+                                    [likes] => 
+                                    [link_flair_text] => 
+                                    [id] => 1b4eob
+                                    [clicked] => 
+                                    [title] => TIL a quadriplegic man was sentenced to 10 days in jail for a first time offence of possession of marijuana, despite the prison not having sufficient medical equipment for him. The 27 year-old died after four days in custody. 
+                                    [media] => 
+                                    [score] => 1956
+                                    [approved_by] => 
+                                    [over_18] => 
+                                    [hidden] => 
+                                    [thumbnail] => http://e.thumbs.redditmedia.com/v3zmGGW8JjTl81Lp.jpg
+                                    [subreddit_id] => t5_2qqjc
+                                    [edited] => 
+                                    [link_flair_css_class] => 
+                                    [author_flair_css_class] => 
+                                    [downs] => 1078
+                                    [saved] => 
+                                    [is_self] => 
+                                    [permalink] => /r/todayilearned/comments/1b4eob/til_a_quadriplegic_man_was_sentenced_to_10_days/
+                                    [name] => t3_1b4eob
+                                    [created] => 1364435261
+                                    [url] => http://www.popehat.com/2008/12/11/crime-marijuana-possession-sentence-death/
+                                    [author_flair_text] => 
+                                    [author] => dundeedan
+                                    [created_utc] => 1364406461
+                                    [ups] => 3034
+                                    [num_comments] => 257
+                                    [num_reports] => 
+                                    [distinguished] => 
+                                )
+
+                        )
+
+                    [3] => stdClass Object
+                        (
+                            [kind] => t3
+                            [data] => stdClass Object
+                                (
+                                    [domain] => imgur.com
+                                    [banned_by] => 
+                                    [media_embed] => stdClass Object
+                                        (
+                                        )
+
+                                    [subreddit] => pics
+                                    [selftext_html] => 
+                                    [selftext] => 
+                                    [likes] => 
+                                    [link_flair_text] => 
+                                    [id] => 1b45gg
+                                    [clicked] => 
+                                    [title] => Atlantic Sea Raven
+                                    [media] => 
+                                    [score] => 2727
+                                    [approved_by] => 
+                                    [over_18] => 
+                                    [hidden] => 
+                                    [thumbnail] => http://c.thumbs.redditmedia.com/2ccnpOl2_sLcjQNt.jpg
+                                    [subreddit_id] => t5_2qh0u
+                                    [edited] => 
+                                    [link_flair_css_class] => 
+                                    [author_flair_css_class] => 
+                                    [downs] => 5332
+                                    [saved] => 
+                                    [is_self] => 
+                                    [permalink] => /r/pics/comments/1b45gg/atlantic_sea_raven/
+                                    [name] => t3_1b45gg
+                                    [created] => 1364427933
+                                    [url] => http://imgur.com/3uqK2Eq
+                                    [author_flair_text] => 
+                                    [author] => McBurgerlar
+                                    [created_utc] => 1364399133
+                                    [ups] => 8059
+                                    [num_comments] => 354
+                                    [num_reports] => 
+                                    [distinguished] => 
+                                )
+
+                        )
+
+                    [4] => stdClass Object
+                        (
+                            [kind] => t3
+                            [data] => stdClass Object
+                                (
+                                    [domain] => i.imgur.com
+                                    [banned_by] => 
+                                    [media_embed] => stdClass Object
+                                        (
+                                        )
+
+                                    [subreddit] => woahdude
+                                    [selftext_html] => 
+                                    [selftext] => 
+                                    [likes] => 
+                                    [link_flair_text] => 
+                                    [id] => 1b44ze
+                                    [clicked] => 
+                                    [title] => Evolution of F1 Cars [gif]
+                                    [media] => 
+                                    [score] => 2513
+                                    [approved_by] => 
+                                    [over_18] => 
+                                    [hidden] => 
+                                    [thumbnail] => 
+                                    [subreddit_id] => t5_2r8tu
+                                    [edited] => 
+                                    [link_flair_css_class] => 
+                                    [author_flair_css_class] => 
+                                    [downs] => 2858
+                                    [saved] => 
+                                    [is_self] => 
+                                    [permalink] => /r/woahdude/comments/1b44ze/evolution_of_f1_cars_gif/
+                                    [name] => t3_1b44ze
+                                    [created] => 1364427541
+                                    [url] => http://i.imgur.com/GAIu7Xs.gif
+                                    [author_flair_text] => 
+                                    [author] => Nathafae
+                                    [created_utc] => 1364398741
+                                    [ups] => 5371
+                                    [num_comments] => 169
+                                    [num_reports] => 
+                                    [distinguished] => 
+                                )
+
+                        )
+
+                    [5] => stdClass Object
+                        (
+                            [kind] => t3
+                            [data] => stdClass Object
+                                (
+                                    [domain] => i.imgur.com
+                                    [banned_by] => 
+                                    [media_embed] => stdClass Object
+                                        (
+                                        )
+
+                                    [subreddit] => funny
+                                    [selftext_html] => 
+                                    [selftext] => 
+                                    [likes] => 
+                                    [link_flair_text] => 
+                                    [id] => 1b451j
+                                    [clicked] => 
+                                    [title] => This just doesn't add up.
+                                    [media] => 
+                                    [score] => 2957
+                                    [approved_by] => 
+                                    [over_18] => 
+                                    [hidden] => 
+                                    [thumbnail] => 
+                                    [subreddit_id] => t5_2qh33
+                                    [edited] => 
+                                    [link_flair_css_class] => 
+                                    [author_flair_css_class] => 
+                                    [downs] => 12231
+                                    [saved] => 
+                                    [is_self] => 
+                                    [permalink] => /r/funny/comments/1b451j/this_just_doesnt_add_up/
+                                    [name] => t3_1b451j
+                                    [created] => 1364427587
+                                    [url] => http://i.imgur.com/CgyfK6J.jpg
+                                    [author_flair_text] => 
+                                    [author] => caija
+                                    [created_utc] => 1364398787
+                                    [ups] => 15188
+                                    [num_comments] => 477
+                                    [num_reports] => 
+                                    [distinguished] => 
+                                )
+
+                        )
+
+                    [6] => stdClass Object
+                        (
+                            [kind] => t3
+                            [data] => stdClass Object
+                                (
+                                    [domain] => i.imgur.com
+                                    [banned_by] => 
+                                    [media_embed] => stdClass Object
+                                        (
+                                        )
+
+                                    [subreddit] => funny
+                                    [selftext_html] => 
+                                    [selftext] => 
+                                    [likes] => 
+                                    [link_flair_text] => 
+                                    [id] => 1b48d0
+                                    [clicked] => 
+                                    [title] => My last line of defense against the urge to drunk text the Ex-girlfriend.
+                                    [media] => 
+                                    [score] => 2324
+                                    [approved_by] => 
+                                    [over_18] => 
+                                    [hidden] => 
+                                    [thumbnail] => 
+                                    [subreddit_id] => t5_2qh33
+                                    [edited] => 
+                                    [link_flair_css_class] => 
+                                    [author_flair_css_class] => 
+                                    [downs] => 2284
+                                    [saved] => 
+                                    [is_self] => 
+                                    [permalink] => /r/funny/comments/1b48d0/my_last_line_of_defense_against_the_urge_to_drunk/
+                                    [name] => t3_1b48d0
+                                    [created] => 1364430285
+                                    [url] => http://i.imgur.com/p4hhury.png
+                                    [author_flair_text] => 
+                                    [author] => peesinpools
+                                    [created_utc] => 1364401485
+                                    [ups] => 4608
+                                    [num_comments] => 194
+                                    [num_reports] => 
+                                    [distinguished] => 
+                                )
+
+                        )
+
+                    [7] => stdClass Object
+                        (
+                            [kind] => t3
+                            [data] => stdClass Object
+                                (
+                                    [domain] => gamespot.com
+                                    [banned_by] => 
+                                    [media_embed] => stdClass Object
+                                        (
+                                        )
+
+                                    [subreddit] => leagueoflegends
+                                    [selftext_html] => 
+                                    [selftext] => 
+                                    [likes] => 
+                                    [link_flair_text] => 
+                                    [id] => 1b4cx5
+                                    [clicked] => 
+                                    [title] => GameCrib: TSM Snapdragon - Episode 6 Shake Up
+                                    [media] => 
+                                    [score] => 1799
+                                    [approved_by] => 
+                                    [over_18] => 
+                                    [hidden] => 
+                                    [thumbnail] => http://b.thumbs.redditmedia.com/ao55RCz0Np7DAg0C.jpg
+                                    [subreddit_id] => t5_2rfxx
+                                    [edited] => 
+                                    [link_flair_css_class] => 
+                                    [author_flair_css_class] => warwick
+                                    [downs] => 1159
+                                    [saved] => 
+                                    [is_self] => 
+                                    [permalink] => /r/leagueoflegends/comments/1b4cx5/gamecrib_tsm_snapdragon_episode_6_shake_up/
+                                    [name] => t3_1b4cx5
+                                    [created] => 1364433882
+                                    [url] => http://www.gamespot.com/events/game-crib-tsm-snapdragon/video.html?sid=6406058
+                                    [author_flair_text] => 
+                                    [author] => Sellos112
+                                    [created_utc] => 1364405082
+                                    [ups] => 2958
+                                    [num_comments] => 1606
+                                    [num_reports] => 
+                                    [distinguished] => 
+                                )
+
+                        )
+
+                    [8] => stdClass Object
+                        (
+                            [kind] => t3
+                            [data] => stdClass Object
+                                (
+                                    [domain] => quickmeme.com
+                                    [banned_by] => 
+                                    [media_embed] => stdClass Object
+                                        (
+                                        )
+
+                                    [subreddit] => AdviceAnimals
+                                    [selftext_html] => 
+                                    [selftext] => 
+                                    [likes] => 
+                                    [link_flair_text] => 
+                                    [id] => 1b4dyc
+                                    [clicked] => 
+                                    [title] => My contribution to reddit's current trend [FIXED] (NSFW)
+                                    [media] => 
+                                    [score] => 1765
+                                    [approved_by] => 
+                                    [over_18] => 1
+                                    [hidden] => 
+                                    [thumbnail] => nsfw
+                                    [subreddit_id] => t5_2s7tt
+                                    [edited] => 
+                                    [link_flair_css_class] => 
+                                    [author_flair_css_class] => 
+                                    [downs] => 2718
+                                    [saved] => 
+                                    [is_self] => 
+                                    [permalink] => /r/AdviceAnimals/comments/1b4dyc/my_contribution_to_reddits_current_trend_fixed/
+                                    [name] => t3_1b4dyc
+                                    [created] => 1364434686
+                                    [url] => http://www.quickmeme.com/meme/3tjtey/
+                                    [author_flair_text] => 
+                                    [author] => senor_ww
+                                    [created_utc] => 1364405886
+                                    [ups] => 4483
+                                    [num_comments] => 218
+                                    [num_reports] => 
+                                    [distinguished] => 
+                                )
+
+                        )
+
+                    [9] => stdClass Object
+                        (
+                            [kind] => t3
+                            [data] => stdClass Object
+                                (
+                                    [domain] => en.wikipedia.org
+                                    [banned_by] => 
+                                    [media_embed] => stdClass Object
+                                        (
+                                        )
+
+                                    [subreddit] => todayilearned
+                                    [selftext_html] => 
+                                    [selftext] => 
+                                    [likes] => 
+                                    [link_flair_text] => 
+                                    [id] => 1b456f
+                                    [clicked] => 
+                                    [title] => TIL that the municipal government of Paris passed a resolution to prohibit Tom Cruise from becoming an honorary citizen of the city.
+                                    [media] => 
+                                    [score] => 2187
+                                    [approved_by] => 
+                                    [over_18] => 
+                                    [hidden] => 
+                                    [thumbnail] => http://f.thumbs.redditmedia.com/45xH5zWeLZopYxCG.jpg
+                                    [subreddit_id] => t5_2qqjc
+                                    [edited] => 
+                                    [link_flair_css_class] => 
+                                    [author_flair_css_class] => 
+                                    [downs] => 2938
+                                    [saved] => 
+                                    [is_self] => 
+                                    [permalink] => /r/todayilearned/comments/1b456f/til_that_the_municipal_government_of_paris_passed/
+                                    [name] => t3_1b456f
+                                    [created] => 1364427698
+                                    [url] => http://en.wikipedia.org/wiki/Scientology_in_France#Legal_status
+                                    [author_flair_text] => 
+                                    [author] => soapygopher
+                                    [created_utc] => 1364398898
+                                    [ups] => 5125
+                                    [num_comments] => 442
+                                    [num_reports] => 
+                                    [distinguished] => 
+                                )
+
+                        )
+
+                    [10] => stdClass Object
+                        (
+                            [kind] => t3
+                            [data] => stdClass Object
+                                (
+                                    [domain] => i.imgur.com
+                                    [banned_by] => 
+                                    [media_embed] => stdClass Object
+                                        (
+                                        )
+
+                                    [subreddit] => funny
+                                    [selftext_html] => 
+                                    [selftext] => 
+                                    [likes] => 
+                                    [link_flair_text] => 
+                                    [id] => 1b4e8s
+                                    [clicked] => 
+                                    [title] => The room was cheap but this is ridiculous... 
+                                    [media] => 
+                                    [score] => 1471
+                                    [approved_by] => 
+                                    [over_18] => 
+                                    [hidden] => 
+                                    [thumbnail] => 
+                                    [subreddit_id] => t5_2qh33
+                                    [edited] => 
+                                    [link_flair_css_class] => 
+                                    [author_flair_css_class] => 
+                                    [downs] => 804
+                                    [saved] => 
+                                    [is_self] => 
+                                    [permalink] => /r/funny/comments/1b4e8s/the_room_was_cheap_but_this_is_ridiculous/
+                                    [name] => t3_1b4e8s
+                                    [created] => 1364434901
+                                    [url] => http://i.imgur.com/lbeotzt.jpg
+                                    [author_flair_text] => 
+                                    [author] => seanzay
+                                    [created_utc] => 1364406101
+                                    [ups] => 2275
+                                    [num_comments] => 97
+                                    [num_reports] => 
+                                    [distinguished] => 
+                                )
+
+                        )
+
+                    [11] => stdClass Object
+                        (
+                            [kind] => t3
+                            [data] => stdClass Object
+                                (
+                                    [domain] => i.imgur.com
+                                    [banned_by] => 
+                                    [media_embed] => stdClass Object
+                                        (
+                                        )
+
+                                    [subreddit] => pokemon
+                                    [selftext_html] => 
+                                    [selftext] => 
+                                    [likes] => 
+                                    [link_flair_text] => 
+                                    [id] => 1b4a2l
+                                    [clicked] => 
+                                    [title] => My life
+                                    [media] => 
+                                    [score] => 1777
+                                    [approved_by] => 
+                                    [over_18] => 
+                                    [hidden] => 
+                                    [thumbnail] => http://e.thumbs.redditmedia.com/yzyb3-cULg8f-GKL.jpg
+                                    [subreddit_id] => t5_2qmeb
+                                    [edited] => 
+                                    [link_flair_css_class] => 
+                                    [author_flair_css_class] => 
+                                    [downs] => 1263
+                                    [saved] => 
+                                    [is_self] => 
+                                    [permalink] => /r/pokemon/comments/1b4a2l/my_life/
+                                    [name] => t3_1b4a2l
+                                    [created] => 1364431636
+                                    [url] => http://i.imgur.com/9YG61FQ.jpg
+                                    [author_flair_text] => 
+                                    [author] => KelvinD69
+                                    [created_utc] => 1364402836
+                                    [ups] => 3040
+                                    [num_comments] => 108
+                                    [num_reports] => 
+                                    [distinguished] => 
+                                )
+
+                        )
+
+                    [12] => stdClass Object
+                        (
+                            [kind] => t3
+                            [data] => stdClass Object
+                                (
+                                    [domain] => youtube.com
+                                    [banned_by] => 
+                                    [media_embed] => stdClass Object
+                                        (
+                                            [content] => &lt;iframe width="600" height="338" src="http://www.youtube.com/embed/fcQqAnf5okE?feature=oembed" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+                                            [width] => 600
+                                            [scrolling] => 
+                                            [height] => 338
+                                        )
+
+                                    [subreddit] => videos
+                                    [selftext_html] => 
+                                    [selftext] => 
+                                    [likes] => 
+                                    [link_flair_text] => 
+                                    [id] => 1b45hy
+                                    [clicked] => 
+                                    [title] => Lion grabs and kills a Heron in front of zoo public.
+                                    [media] => stdClass Object
+                                        (
+                                            [type] => youtube.com
+                                            [oembed] => stdClass Object
+                                                (
+                                                    [provider_url] => http://www.youtube.com/
+                                                    [description] => Zoo-Lion grabs and kills a Heron in front of zoo public.
+                                                    [title] => Lion grabs and kills a Heron in front of zoo public.
+                                                    [url] => http://www.youtube.com/watch?v=fcQqAnf5okE
+                                                    [type] => video
+                                                    [author_name] => ViralNewsBear
+                                                    [height] => 338
+                                                    [width] => 600
+                                                    [html] => &lt;iframe width="600" height="338" src="http://www.youtube.com/embed/fcQqAnf5okE?feature=oembed" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+                                                    [thumbnail_width] => 480
+                                                    [version] => 1.0
+                                                    [provider_name] => YouTube
+                                                    [thumbnail_url] => http://i3.ytimg.com/vi/fcQqAnf5okE/hqdefault.jpg
+                                                    [thumbnail_height] => 360
+                                                    [author_url] => http://www.youtube.com/user/ViralNewsBear
+                                                )
+
+                                        )
+
+                                    [score] => 1978
+                                    [approved_by] => 
+                                    [over_18] => 
+                                    [hidden] => 
+                                    [thumbnail] => http://c.thumbs.redditmedia.com/f5qGxKbLurtu2kND.jpg
+                                    [subreddit_id] => t5_2qh1e
+                                    [edited] => 
+                                    [link_flair_css_class] => 
+                                    [author_flair_css_class] => 
+                                    [downs] => 1648
+                                    [saved] => 
+                                    [is_self] => 
+                                    [permalink] => /r/videos/comments/1b45hy/lion_grabs_and_kills_a_heron_in_front_of_zoo/
+                                    [name] => t3_1b45hy
+                                    [created] => 1364427967
+                                    [url] => http://www.youtube.com/watch?v=fcQqAnf5okE
+                                    [author_flair_text] => 
+                                    [author] => hendrikdejager
+                                    [created_utc] => 1364399167
+                                    [ups] => 3626
+                                    [num_comments] => 628
+                                    [num_reports] => 
+                                    [distinguished] => 
+                                )
+
+                        )
+
+                    [13] => stdClass Object
+                        (
+                            [kind] => t3
+                            [data] => stdClass Object
+                                (
+                                    [domain] => i.imgur.com
+                                    [banned_by] => 
+                                    [media_embed] => stdClass Object
+                                        (
+                                        )
+
+                                    [subreddit] => funny
+                                    [selftext_html] => 
+                                    [selftext] => 
+                                    [likes] => 
+                                    [link_flair_text] => 
+                                    [id] => 1b4d28
+                                    [clicked] => 
+                                    [title] => That poor, poor soul...
+                                    [media] => 
+                                    [score] => 1479
+                                    [approved_by] => 
+                                    [over_18] => 
+                                    [hidden] => 
+                                    [thumbnail] => 
+                                    [subreddit_id] => t5_2qh33
+                                    [edited] => 
+                                    [link_flair_css_class] => 
+                                    [author_flair_css_class] => 
+                                    [downs] => 542
+                                    [saved] => 
+                                    [is_self] => 
+                                    [permalink] => /r/funny/comments/1b4d28/that_poor_poor_soul/
+                                    [name] => t3_1b4d28
+                                    [created] => 1364434000
+                                    [url] => http://i.imgur.com/NP1Q9HL.png
+                                    [author_flair_text] => 
+                                    [author] => Munger88
+                                    [created_utc] => 1364405200
+                                    [ups] => 2021
+                                    [num_comments] => 87
+                                    [num_reports] => 
+                                    [distinguished] => 
+                                )
+
+                        )
+
+                    [14] => stdClass Object
+                        (
+                            [kind] => t3
+                            [data] => stdClass Object
+                                (
+                                    [domain] => i.minus.com
+                                    [banned_by] => 
+                                    [media_embed] => stdClass Object
+                                        (
+                                        )
+
+                                    [subreddit] => funny
+                                    [selftext_html] => 
+                                    [selftext] => 
+                                    [likes] => 
+                                    [link_flair_text] => 
+                                    [id] => 1b45vi
+                                    [clicked] => 
+                                    [title] => No thanks.
+                                    [media] => 
+                                    [score] => 1972
+                                    [approved_by] => 
+                                    [over_18] => 
+                                    [hidden] => 
+                                    [thumbnail] => 
+                                    [subreddit_id] => t5_2qh33
+                                    [edited] => 
+                                    [link_flair_css_class] => 
+                                    [author_flair_css_class] => 
+                                    [downs] => 2956
+                                    [saved] => 
+                                    [is_self] => 
+                                    [permalink] => /r/funny/comments/1b45vi/no_thanks/
+                                    [name] => t3_1b45vi
+                                    [created] => 1364428313
+                                    [url] => http://i.minus.com/ibevUM7M82TB5M.gif
+                                    [author_flair_text] => 
+                                    [author] => DrunkenPengu1n
+                                    [created_utc] => 1364399513
+                                    [ups] => 4928
+                                    [num_comments] => 156
+                                    [num_reports] => 
+                                    [distinguished] => 
+                                )
+
+                        )
+
+                    [15] => stdClass Object
+                        (
+                            [kind] => t3
+                            [data] => stdClass Object
+                                (
+                                    [domain] => i.imgur.com
+                                    [banned_by] => 
+                                    [media_embed] => stdClass Object
+                                        (
+                                        )
+
+                                    [subreddit] => fffffffuuuuuuuuuuuu
+                                    [selftext_html] => 
+                                    [selftext] => 
+                                    [likes] => 
+                                    [link_flair_text] => 
+                                    [id] => 1b42u0
+                                    [clicked] => 
+                                    [title] => The most magical day of the year in Elementary School. 
+                                    [media] => 
+                                    [score] => 2195
+                                    [approved_by] => 
+                                    [over_18] => 
+                                    [hidden] => 
+                                    [thumbnail] => http://c.thumbs.redditmedia.com/YskR0-1mLTEOlD0V.jpg
+                                    [subreddit_id] => t5_2qqlo
+                                    [edited] => 
+                                    [link_flair_css_class] => 
+                                    [author_flair_css_class] => 
+                                    [downs] => 2717
+                                    [saved] => 
+                                    [is_self] => 
+                                    [permalink] => /r/fffffffuuuuuuuuuuuu/comments/1b42u0/the_most_magical_day_of_the_year_in_elementary/
+                                    [name] => t3_1b42u0
+                                    [created] => 1364425645
+                                    [url] => http://i.imgur.com/NKkoln2.png
+                                    [author_flair_text] => 
+                                    [author] => Gord88
+                                    [created_utc] => 1364396845
+                                    [ups] => 4912
+                                    [num_comments] => 131
+                                    [num_reports] => 
+                                    [distinguished] => 
+                                )
+
+                        )
+
+                    [16] => stdClass Object
+                        (
+                            [kind] => t3
+                            [data] => stdClass Object
+                                (
+                                    [domain] => imgur.com
+                                    [banned_by] => 
+                                    [media_embed] => stdClass Object
+                                        (
+                                        )
+
+                                    [subreddit] => WTF
+                                    [selftext_html] => 
+                                    [selftext] => 
+                                    [likes] => 
+                                    [link_flair_text] => 
+                                    [id] => 1b40wd
+                                    [clicked] => 
+                                    [title] => "Willy Thief Executed"
+                                    [media] => 
+                                    [score] => 2352
+                                    [approved_by] => 
+                                    [over_18] => 
+                                    [hidden] => 
+                                    [thumbnail] => 
+                                    [subreddit_id] => t5_2qh61
+                                    [edited] => 
+                                    [link_flair_css_class] => 
+                                    [author_flair_css_class] => 
+                                    [downs] => 3292
+                                    [saved] => 
+                                    [is_self] => 
+                                    [permalink] => /r/WTF/comments/1b40wd/willy_thief_executed/
+                                    [name] => t3_1b40wd
+                                    [created] => 1364423918
+                                    [url] => http://imgur.com/GBYzNpO
+                                    [author_flair_text] => 
+                                    [author] => sadface234
+                                    [created_utc] => 1364395118
+                                    [ups] => 5644
+                                    [num_comments] => 440
+                                    [num_reports] => 
+                                    [distinguished] => 
+                                )
+
+                        )
+
+                    [17] => stdClass Object
+                        (
+                            [kind] => t3
+                            [data] => stdClass Object
+                                (
+                                    [domain] => imgur.com
+                                    [banned_by] => 
+                                    [media_embed] => stdClass Object
+                                        (
+                                        )
+
+                                    [subreddit] => pics
+                                    [selftext_html] => 
+                                    [selftext] => 
+                                    [likes] => 
+                                    [link_flair_text] => 
+                                    [id] => 1b417t
+                                    [clicked] => 
+                                    [title] => So I ordered chicken nachos, not sure I can finish them all ...
+                                    [media] => 
+                                    [score] => 2905
+                                    [approved_by] => 
+                                    [over_18] => 
+                                    [hidden] => 
+                                    [thumbnail] => http://b.thumbs.redditmedia.com/8KVcpnFIT9Bj6p6O.jpg
+                                    [subreddit_id] => t5_2qh0u
+                                    [edited] => 
+                                    [link_flair_css_class] => 
+                                    [author_flair_css_class] => 
+                                    [downs] => 16033
+                                    [saved] => 
+                                    [is_self] => 
+                                    [permalink] => /r/pics/comments/1b417t/so_i_ordered_chicken_nachos_not_sure_i_can_finish/
+                                    [name] => t3_1b417t
+                                    [created] => 1364424213
+                                    [url] => http://imgur.com/BY8B7hJ
+                                    [author_flair_text] => 
+                                    [author] => Ordet735
+                                    [created_utc] => 1364395413
+                                    [ups] => 18938
+                                    [num_comments] => 2209
+                                    [num_reports] => 
+                                    [distinguished] => 
+                                )
+
+                        )
+
+                    [18] => stdClass Object
+                        (
+                            [kind] => t3
+                            [data] => stdClass Object
+                                (
+                                    [domain] => i.imgur.com
+                                    [banned_by] => 
+                                    [media_embed] => stdClass Object
+                                        (
+                                        )
+
+                                    [subreddit] => funny
+                                    [selftext_html] => 
+                                    [selftext] => 
+                                    [likes] => 
+                                    [link_flair_text] => 
+                                    [id] => 1b45es
+                                    [clicked] => 
+                                    [title] => Right on Frank. Right on.
+                                    [media] => 
+                                    [score] => 1906
+                                    [approved_by] => 
+                                    [over_18] => 
+                                    [hidden] => 
+                                    [thumbnail] => 
+                                    [subreddit_id] => t5_2qh33
+                                    [edited] => 
+                                    [link_flair_css_class] => 
+                                    [author_flair_css_class] => 
+                                    [downs] => 3126
+                                    [saved] => 
+                                    [is_self] => 
+                                    [permalink] => /r/funny/comments/1b45es/right_on_frank_right_on/
+                                    [name] => t3_1b45es
+                                    [created] => 1364427888
+                                    [url] => http://i.imgur.com/ZoAFyBZ.png
+                                    [author_flair_text] => 
+                                    [author] => Nlarkin
+                                    [created_utc] => 1364399088
+                                    [ups] => 5032
+                                    [num_comments] => 69
+                                    [num_reports] => 
+                                    [distinguished] => 
+                                )
+
+                        )
+
+                    [19] => stdClass Object
+                        (
+                            [kind] => t3
+                            [data] => stdClass Object
+                                (
+                                    [domain] => i.minus.com
+                                    [banned_by] => 
+                                    [media_embed] => stdClass Object
+                                        (
+                                        )
+
+                                    [subreddit] => funny
+                                    [selftext_html] => 
+                                    [selftext] => 
+                                    [likes] => 
+                                    [link_flair_text] => 
+                                    [id] => 1b42hj
+                                    [clicked] => 
+                                    [title] => That's why I prefer curtains.
+                                    [media] => 
+                                    [score] => 2469
+                                    [approved_by] => 
+                                    [over_18] => 
+                                    [hidden] => 
+                                    [thumbnail] => 
+                                    [subreddit_id] => t5_2qh33
+                                    [edited] => 
+                                    [link_flair_css_class] => 
+                                    [author_flair_css_class] => 
+                                    [downs] => 11761
+                                    [saved] => 
+                                    [is_self] => 
+                                    [permalink] => /r/funny/comments/1b42hj/thats_why_i_prefer_curtains/
+                                    [name] => t3_1b42hj
+                                    [created] => 1364425330
+                                    [url] => http://i.minus.com/ibwtevoRcVqFuO.gif
+                                    [author_flair_text] => 
+                                    [author] => EpicRageGuy
+                                    [created_utc] => 1364396530
+                                    [ups] => 14230
+                                    [num_comments] => 646
+                                    [num_reports] => 
+                                    [distinguished] => 
+                                )
+
+                        )
+
+                    [20] => stdClass Object
+                        (
+                            [kind] => t3
+                            [data] => stdClass Object
+                                (
+                                    [domain] => imgur.com
+                                    [banned_by] => 
+                                    [media_embed] => stdClass Object
+                                        (
+                                        )
+
+                                    [subreddit] => RoomPorn
+                                    [selftext_html] => 
+                                    [selftext] => 
+                                    [likes] => 
+                                    [link_flair_text] => 
+                                    [id] => 1b43rc
+                                    [clicked] => 
+                                    [title] => Can a warehouse be RoomPorn? [1600x900]
+                                    [media] => 
+                                    [score] => 1823
+                                    [approved_by] => 
+                                    [over_18] => 
+                                    [hidden] => 
+                                    [thumbnail] => http://b.thumbs.redditmedia.com/H5t4JFyPEI81WmWy.jpg
+                                    [subreddit_id] => t5_2ske1
+                                    [edited] => 
+                                    [link_flair_css_class] => 
+                                    [author_flair_css_class] => 
+                                    [downs] => 666
+                                    [saved] => 
+                                    [is_self] => 
+                                    [permalink] => /r/RoomPorn/comments/1b43rc/can_a_warehouse_be_roomporn_1600x900/
+                                    [name] => t3_1b43rc
+                                    [created] => 1364426478
+                                    [url] => http://imgur.com/CeMt2ns
+                                    [author_flair_text] => 
+                                    [author] => weedragonaut
+                                    [created_utc] => 1364397678
+                                    [ups] => 2489
+                                    [num_comments] => 87
+                                    [num_reports] => 
+                                    [distinguished] => 
+                                )
+
+                        )
+
+                    [21] => stdClass Object
+                        (
+                            [kind] => t3
+                            [data] => stdClass Object
+                                (
+                                    [domain] => i.imgur.com
+                                    [banned_by] => 
+                                    [media_embed] => stdClass Object
+                                        (
+                                        )
+
+                                    [subreddit] => funny
+                                    [selftext_html] => 
+                                    [selftext] => 
+                                    [likes] => 
+                                    [link_flair_text] => 
+                                    [id] => 1b468b
+                                    [clicked] => 
+                                    [title] => Chemical reaction gif?
+                                    [media] => 
+                                    [score] => 1657
+                                    [approved_by] => 
+                                    [over_18] => 
+                                    [hidden] => 
+                                    [thumbnail] => 
+                                    [subreddit_id] => t5_2qh33
+                                    [edited] => 
+                                    [link_flair_css_class] => 
+                                    [author_flair_css_class] => 
+                                    [downs] => 1691
+                                    [saved] => 
+                                    [is_self] => 
+                                    [permalink] => /r/funny/comments/1b468b/chemical_reaction_gif/
+                                    [name] => t3_1b468b
+                                    [created] => 1364428582
+                                    [url] => http://i.imgur.com/IzmNyWQ.gif
+                                    [author_flair_text] => 
+                                    [author] => kingofthe7realms
+                                    [created_utc] => 1364399782
+                                    [ups] => 3348
+                                    [num_comments] => 78
+                                    [num_reports] => 
+                                    [distinguished] => 
+                                )
+
+                        )
+
+                    [22] => stdClass Object
+                        (
+                            [kind] => t3
+                            [data] => stdClass Object
+                                (
+                                    [domain] => qkme.me
+                                    [banned_by] => 
+                                    [media_embed] => stdClass Object
+                                        (
+                                        )
+
+                                    [subreddit] => AdviceAnimals
+                                    [selftext_html] => 
+                                    [selftext] => 
+                                    [likes] => 
+                                    [link_flair_text] => 
+                                    [id] => 1b3zhx
+                                    [clicked] => 
+                                    [title] => Working in retail, it's the small victories that count.
+                                    [media] => 
+                                    [score] => 2325
+                                    [approved_by] => 
+                                    [over_18] => 
+                                    [hidden] => 
+                                    [thumbnail] => http://f.thumbs.redditmedia.com/jyx1O_1OaogWD06Y.jpg
+                                    [subreddit_id] => t5_2s7tt
+                                    [edited] => 
+                                    [link_flair_css_class] => 
+                                    [author_flair_css_class] => 
+                                    [downs] => 11798
+                                    [saved] => 
+                                    [is_self] => 
+                                    [permalink] => /r/AdviceAnimals/comments/1b3zhx/working_in_retail_its_the_small_victories_that/
+                                    [name] => t3_1b3zhx
+                                    [created] => 1364422618
+                                    [url] => http://qkme.me/3tjq1l
+                                    [author_flair_text] => 
+                                    [author] => clarke41
+                                    [created_utc] => 1364393818
+                                    [ups] => 14123
+                                    [num_comments] => 623
+                                    [num_reports] => 
+                                    [distinguished] => 
+                                )
+
+                        )
+
+                    [23] => stdClass Object
+                        (
+                            [kind] => t3
+                            [data] => stdClass Object
+                                (
+                                    [domain] => quickmeme.com
+                                    [banned_by] => 
+                                    [media_embed] => stdClass Object
+                                        (
+                                        )
+
+                                    [subreddit] => AdviceAnimals
+                                    [selftext_html] => 
+                                    [selftext] => 
+                                    [likes] => 
+                                    [link_flair_text] => 
+                                    [id] => 1b43z6
+                                    [clicked] => 
+                                    [title] => I just wish more people would do this.
+                                    [media] => 
+                                    [score] => 1802
+                                    [approved_by] => 
+                                    [over_18] => 
+                                    [hidden] => 
+                                    [thumbnail] => http://c.thumbs.redditmedia.com/PDZdfgUxka7Je2E2.jpg
+                                    [subreddit_id] => t5_2s7tt
+                                    [edited] => 
+                                    [link_flair_css_class] => 
+                                    [author_flair_css_class] => 
+                                    [downs] => 1955
+                                    [saved] => 
+                                    [is_self] => 
+                                    [permalink] => /r/AdviceAnimals/comments/1b43z6/i_just_wish_more_people_would_do_this/
+                                    [name] => t3_1b43z6
+                                    [created] => 1364426670
+                                    [url] => http://www.quickmeme.com/meme/3tjr01/
+                                    [author_flair_text] => 
+                                    [author] => tapedeckgh0st
+                                    [created_utc] => 1364397870
+                                    [ups] => 3757
+                                    [num_comments] => 77
+                                    [num_reports] => 
+                                    [distinguished] => 
+                                )
+
+                        )
+
+                    [24] => stdClass Object
+                        (
+                            [kind] => t3
+                            [data] => stdClass Object
+                                (
+                                    [domain] => i.imgur.com
+                                    [banned_by] => 
+                                    [media_embed] => stdClass Object
+                                        (
+                                        )
+
+                                    [subreddit] => WTF
+                                    [selftext_html] => 
+                                    [selftext] => 
+                                    [likes] => 
+                                    [link_flair_text] => 
+                                    [id] => 1b48ty
+                                    [clicked] => 
+                                    [title] => So my friend fell off his bike and hit a rock...
+                                    [media] => 
+                                    [score] => 1469
+                                    [approved_by] => 
+                                    [over_18] => 1
+                                    [hidden] => 
+                                    [thumbnail] => 
+                                    [subreddit_id] => t5_2qh61
+                                    [edited] => 
+                                    [link_flair_css_class] => 
+                                    [author_flair_css_class] => 
+                                    [downs] => 788
+                                    [saved] => 
+                                    [is_self] => 
+                                    [permalink] => /r/WTF/comments/1b48ty/so_my_friend_fell_off_his_bike_and_hit_a_rock/
+                                    [name] => t3_1b48ty
+                                    [created] => 1364430643
+                                    [url] => http://i.imgur.com/xjLzy44.jpg
+                                    [author_flair_text] => 
+                                    [author] => hagridaaron
+                                    [created_utc] => 1364401843
+                                    [ups] => 2257
+                                    [num_comments] => 284
+                                    [num_reports] => 
+                                    [distinguished] => 
+                                )
+
+                        )
+
+                )
+
+            [after] => t3_1b48ty
+            [before] => 
+        )
+
+)
